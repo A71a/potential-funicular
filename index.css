@@ -1,0 +1,97 @@
+body {
+    background-color: #36454F;
+}
+
+#search {
+    margin: 10px;
+    width: 500px;
+}
+
+#search input {
+    height: 40px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    width: 300px;
+    border-radius: 20px 00px 0px 20px;
+}
+
+#search button {
+    width: 60px;
+    height: 50px;
+    margin-top: 10px;
+    font-size: 17px;
+    border-radius: 0px 20px 20px 0px;
+
+}
+
+#search button:hover {
+    background-color: #8B9CB2;
+}
+
+#mother {
+    width: 100%;
+    font-size: 20px;
+}
+
+main {
+    height: 500px;
+    float: right;
+    border: 1px solid white;
+    padding: 5px;
+    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    scrollbar-color: white #2C4764;
+
+}
+
+input {
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+aside {
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    float: left;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #2C4764;
+    color: white;
+}
+
+#tbl {
+    width: 1050px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+th {
+    background-color: #2C4764;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+aside button {
+    width: 190px;
+    padding: 8px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+td {
+    border: 1px solid silver;
+    color: white;
+
+}
